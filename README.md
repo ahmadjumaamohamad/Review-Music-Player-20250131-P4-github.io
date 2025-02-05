@@ -2,6 +2,8 @@
 CS30 Lessons
 
 # To Do List
+
+### Client Side #1
 - [x] Folder Structure
     - [x] Blank Intermediate-Advanced Processing Music Player Program
     - [x] Music:
@@ -18,4 +20,7 @@ CS30 Lessons
 - [ ] TBA
 - [ ] index.html: profile, images, and You Tube API Video changes
     - [ ] Purpose: able to imagine the app you will build
+- DONE HTML #1
+
+### Client Side #2
 - [ ] TBA
