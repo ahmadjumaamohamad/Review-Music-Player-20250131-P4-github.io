@@ -9,4 +9,7 @@ CS30 Lessons
         - Advanced chooses Pong Music
     - [ ] Images related to music or theme, in Music Folder
     - [ ] Old Music Player Code Folder, contains previous your music player
+- [ ] Complete Case Study of Music Player Button
+- [ ] Materials Design
+    - [ ] TBA
 - [ ] TBA
