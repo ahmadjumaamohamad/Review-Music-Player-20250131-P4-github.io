@@ -1,7 +1,17 @@
 # Review-Music-Player-20250131-P4-github.io
 CS30 Lessons
 
-** UNDER CONSTRUCTION **, beginning music player promotion: https://github.com/QEHS-Websites/Music-Player-Promotion
+** UNDER CONSTRUCTION **, beginning music player promotion:
+- https://github.com/QEHS-Websites/Music-Player-Promotion
+- https://github.com/QEHS-Websites/LearningHTML.github.io
+
+- https://github.com/QEHS-Websites/Introductory-HTML/blob/main/HTML_Summary.txt
+
+- https://github.com/QEHS-Websites/Grouped-Resources
+
+- https://github.com/QEHS-Websites/Inner-HTML-JavaScript-Console.github.io
+
+- https://github.com/QEHS-Websites/Using-CSS-github.io/blob/main/CSS_Intro-Summary.txt
 
 # To Do List
 
