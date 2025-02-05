@@ -1,10 +1,13 @@
 # Review-Music-Player-20250131-P4-github.io
 CS30 Lessons
 
+** UNDER CONSTRUCTION **, beginning music player promotion: https://github.com/QEHS-Websites/Music-Player-Promotion
+
 # To Do List
 
 ### Client Side #1
 - [x] Folder Structure
+    - [X] Folder with ReadMe.txt: Lesson Prototyping
     - [x] Blank Intermediate-Advanced Processing Music Player Program
     - [x] Music:
         - Intermediate chooses 3 songs Weather App & 3 different songs for TicTacToe
