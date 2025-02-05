@@ -13,4 +13,6 @@ CS30 Lessons
     - [ ] Materials Design
     - [ ] Functionality
     - [ ] DIVs & Ratios
+    - [ ] Upload image to index.html
+    - See: https://photos.google.com/share/AF1QipPh6eeCu35eJj9raP-4YN05qjB7rXPcqeEAmMRx0-JB-e1FPc8JdQQsf81uLtA2xQ
 - [ ] TBA
