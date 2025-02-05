@@ -5,6 +5,6 @@ CS30 Lessons
 - [ ] Folder Structure
 - [ ] Blank Intermediate-Advanced Processing Music Player Program
 - [ ] Music:
-    - Intermediate has choice of 3 songs for entire course, or changing songs so only 3 available at a time ( Weather App & TicTacToe )
+    - Intermediate chooses 3 songs Weather App & 3 different songs for TicTacToe
     - Advanced chooses Pong Music
 - [ ] TBA
