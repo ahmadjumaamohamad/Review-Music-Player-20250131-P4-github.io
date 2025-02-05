@@ -8,4 +8,4 @@ CS30 Lessons
     - Intermediate chooses 3 songs Weather App & 3 different songs for TicTacToe
     - Advanced chooses Pong Music
 - [ ] Images related to music or theme, in Music Folder
-- [ ] TBA
+- [ ] Old Music Player Code Folder, contains previous your music player
