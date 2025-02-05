@@ -24,3 +24,12 @@ CS30 Lessons
 
 ### Client Side #2
 - [ ] TBA
+
+---
+
+See: https://github.com/QEHS-Websites/Music-Player-Promotion
+
+Combine with this repository
+
+---
+
