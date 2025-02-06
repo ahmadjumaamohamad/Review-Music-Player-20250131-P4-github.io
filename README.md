@@ -21,6 +21,8 @@ CS30 Lessons
         - Advanced chooses Pong Music
     - [x] Images related to music or theme, in Music Folder
     - [x] Old Music Player Code Folder, contains previous your music player
+- [ ] HTML Additions
+    - [ ] See: https://github.com/QEHS-Websites/Music-Player-Promotion
 - [ ] Complete Case Study of Music Player Button
     - [ ] Materials Design
     - [ ] Functionality
