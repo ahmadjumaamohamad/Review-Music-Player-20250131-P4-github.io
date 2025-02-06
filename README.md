@@ -3,9 +3,6 @@ CS30 Lessons
 
 ** UNDER CONSTRUCTION **, beginning music player promotion:
 - https://github.com/QEHS-Websites/Music-Player-Promotion
-- https://github.com/QEHS-Websites/LearningHTML.github.io
-
-- https://github.com/QEHS-Websites/Introductory-HTML/blob/main/HTML_Summary.txt
 
 - https://github.com/QEHS-Websites/Grouped-Resources
 
