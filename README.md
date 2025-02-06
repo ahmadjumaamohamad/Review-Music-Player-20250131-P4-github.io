@@ -29,7 +29,7 @@ CS30 Lessons
     - [ ] Functionality
     - [ ] DIVs & Ratios
     - [ ] Upload image to index.html
-    - See: https://photos.google.com/share/AF1QipPh6eeCu35eJj9raP-4YN05qjB7rXPcqeEAmMRx0-JB-e1FPc8JdQQsf81uLtA2xQ
+    - See: https://photos.app.goo.gl/xA2Py4h82E1ydSsm8
 - [ ] TBA
 - [ ] index.html: profile, images, and You Tube API Video changes
     - [ ] Purpose: able to imagine the app you will build
