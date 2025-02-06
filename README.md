@@ -30,6 +30,7 @@ CS30 Lessons
     - [ ] DIVs & Ratios
     - [ ] Upload image to index.html
     - See: https://photos.app.goo.gl/xA2Py4h82E1ydSsm8
+    - NOTE: might need to open this Google Photos URL with an INCOGNITO Tab
 - [ ] TBA
 - [ ] index.html: profile, images, and You Tube API Video changes
     - [ ] Purpose: able to imagine the app you will build
