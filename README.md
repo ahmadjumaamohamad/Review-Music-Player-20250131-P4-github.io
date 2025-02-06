@@ -21,15 +21,10 @@ CS30 Lessons
         - Advanced chooses Pong Music
     - [x] Images related to music or theme, in Music Folder
     - [x] Old Music Player Code Folder, contains previous your music player
-- [ ] HTML Additions
+- Concurrent: Case Study | Wire Frame AND HTML Additions
     - [ ] See: https://github.com/QEHS-Websites/Music-Player-Promotion
 - [ ] Complete Case Study of Music Player Button
-    - [ ] Materials Design
-    - [ ] Functionality
-    - [ ] DIVs & Ratios
-    - [ ] Upload image to index.html
-    - See: https://photos.app.goo.gl/xA2Py4h82E1ydSsm8
-    - NOTE: might need to open this Google Photos URL with an INCOGNITO Tab
+    
 - [ ] TBA
 - [ ] index.html: profile, images, and You Tube API Video changes
     - [ ] Purpose: able to imagine the app you will build
