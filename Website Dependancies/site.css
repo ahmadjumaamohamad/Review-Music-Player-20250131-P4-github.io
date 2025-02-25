@@ -57,7 +57,7 @@ body {
 
 h1 {
 	font-size: 3rem;
-	color: white;
+	color: rgb(55, 235, 166);
 	display: block;
 	text-align: center;
 }
@@ -128,7 +128,7 @@ iframe {
 
 footer {
 	height: 100px;
-	background-color: #001bff;
+	background-color: #ea8c00;
 }
 
 #complete {
