@@ -4,7 +4,7 @@
 //
 //Global Variables
 int appWidth, appHeight;
-float imageX, imageY, imageWidth, imageHeight;
+float musicMenuX, musicMenuY, musicMenuWidth, musicMenuHeight;
 //
 void setup() {
   //Display
@@ -12,18 +12,17 @@ void setup() {
   appWidth = displayWidth;
   appHeight = displayHeight;
   //
-  imageX = displayWidth*0.17;
-  imageY = displayHeight*0.20;
-  imageWidth = displayWidth*0.67;
-  imageHeight = displayHeight*0.15;
+  musicMenuX = displayWidth*1/4;
+  musicMenuY = displayHeight*1/4;
+  musicMenuWidth = displayWidth*1/2;
+  musicMenuHeight = displayHeight*1/2;
   //
   //rect(X, Y Width, Height);
+  rect(musicMenuX, musicMenuY, musicMenuWidth, musicMenuHeight);
   //
 } //End setup
 //
-void draw() {
-  rect(musicMenuX, musicMenuY, musicMenuWidth, musicMenuHeight);
-} //End draw
+void draw() {} //End draw
 //
 void mousePressed() {} //End mousePressed
 //
