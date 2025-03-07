@@ -12,7 +12,7 @@ CS30 Lessons
 
 # To Do List
 
-### Client Side #1
+### Reviewing Music Player - Verify the following
 - [x] Folder Structure
     - [X] Folder with ReadMe.txt: Lesson Prototyping
     - [x] Blank Intermediate-Advanced Processing Music Player Program
@@ -24,8 +24,11 @@ CS30 Lessons
 - Concurrent: Case Study | Wire Frame AND HTML Additions
     - [ ] See: https://github.com/QEHS-Websites/Music-Player-Promotion
 - [ ] Complete Case Study of Music Player Button
-    
-- [ ] TBA
+    - [ ] Music menu geometry
+    - [ ] Meta Data Choices (see an exemplar .mp3 and properties to verify population and use of NULL)
+    - [ ] Music Buttons and other interactions
+- [ ] Review Library Loading leading to Library Research
+    - [ ] Minim Website and Documentation
 - [ ] index.html: profile, images, and You Tube API Video changes
     - [ ] Purpose: able to imagine the app you will build
 - DONE HTML #1
